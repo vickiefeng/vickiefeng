@@ -6,9 +6,9 @@ I'm a recent UC San Diego graduate with a B.S. in Applied Mathematics and a mino
 
 * Data analytics & visualization
 * Business and operations analytics
-* Housing & affordability
 * Applied mathematics
 * Data-driven decision making
+* Housing & affordability
 
 ### Tools & Technologies
 
